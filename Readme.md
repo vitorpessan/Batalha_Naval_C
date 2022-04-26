@@ -18,9 +18,10 @@
 
 ---
 ###### *Observações:*
-- *Tanto suas tropas quanto as inimigas serão exibidas abaixo dos respectivos tabuleiros.*
-- *O posicionamento das tropas inimigas é aleatório*
-- *As jogadas inimigas são aleatórias*
+- *O programa entende como posição inicial as coordenadas 1 x 1*
+- *Tanto suas tropas quanto as inimigas serão exibidas abaixo dos respectivos tabuleiros;*
+- *O posicionamento das tropas inimigas é aleatório;*
+- *As jogadas inimigas são aleatórias.*
 
 O jogo é simples e existem diversos pontos a serem melhorados, tanto em validação quanto funcionamento. Caso sintam, por gentileza, podem ajudar em seu desenvolvimento.
 
